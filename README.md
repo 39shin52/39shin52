@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 <!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=39shin52)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=39shin52)
  -->
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=39shin52&theme=dark)
+<a href="https://github.com/39shin52/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=39shin52&layout=compact&theme=dark" height=195 />
+</a>
+<a href="https://github.com/39shin52/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=39shin52&theme=dark&count_private=true&show_icons=true" />
+</a>
